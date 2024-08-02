@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "T-Shirt",
+        "description": "dnvkdjnf.vknd.kvn.ldkfvldflvn.dfn",
+        "cost": 12,
+        "onCart": false
+    },
+    {
+        "id": 2,
+        "name": "Jacket",
+        "description": "dlnsldklolodolovdklkclkdloc",
+        "cost": 10,
+        "onCart": false
+    },
+    {
+        "id": 3,
+        "name": "Hat",
+        "description": "sdkjvnldkfnlvndlfnvldfknvlkjk,dfkfd",
+        "cost": 15,
+        "onCart": false
+    },
+    {
+        "id": 4,
+        "name": "Phone",
+        "description": "sdvilusnvilunslnvls",
+        "cost": 750,
+        "onCart": false
+    },
+    {
+        "id": 5,
+        "name": "Notepad",
+        "description": "siuhkdfjnvmbd,rjgb,rkdjn,knjr,k",
+        "cost": 1000,
+        "onCart": false
+    },
+    {
+        "id": 6,
+        "name": "Laptop",
+        "description": "fvoijlodifvliuhliuhcljkjnkn,rk",
+        "cost": 500,
+        "onCart": false
+    },
+    {
+        "id": 7,
+        "name": "PC",
+        "description": "sdkjdkuvhxk,vbrjhvkjdbrjhr",
+        "cost": 700,
+        "onCart": false
+    },
+    {
+        "id": 8,
+        "name": "Plant",
+        "description": "sdkjvnkjsdkvhkisdsjclkjnkjlksjvkljb",
+        "cost": 5,
+        "onCart": false
+    },
+    {
+        "id": 9,
+        "name": "Apple",
+        "description": "dskckisubdkchbsliunekbilrvberkv",
+        "cost": 1,
+        "onCart": false
+    },
+    {
+        "id": 10,
+        "name": "Banana",
+        "description": "sdjbjsbkvuskiuhvkis,wmhv,jskd,knsf,bd,h",
+        "cost": 3,
+        "onCart": false
+    }
+]
